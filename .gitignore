@@ -161,4 +161,5 @@ dist
 .ionide
 
 docs/
+dist/
 # End of https://www.toptal.com/developers/gitignore/api/node,visualstudiocode
